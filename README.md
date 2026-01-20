@@ -117,12 +117,12 @@ const sudarshan = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudarshan-magar-435684239)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudarshanmagar-435684239)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magarsudarshan77@gmail.com)
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)-->
 
 </div>
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/sudarshan-magar7">Sudarshan Magar</a></i>
+  <i>⭐️ From <a href="https://github.com/sudarshanmagar7">Sudarshan Magar</a></i>
 </div>
